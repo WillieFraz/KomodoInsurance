@@ -1,0 +1,15 @@
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\KomodoInsurance.csproj.AssemblyReference.cache
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\KomodoInsurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\KomodoInsurance.AssemblyInfoInputs.cache
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\KomodoInsurance.AssemblyInfo.cs
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\KomodoInsurance.csproj.CoreCompileInputs.cache
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\bin\Debug\net7.0\KomodoInsurance.exe
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\bin\Debug\net7.0\KomodoInsurance.deps.json
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\bin\Debug\net7.0\KomodoInsurance.runtimeconfig.json
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\bin\Debug\net7.0\KomodoInsurance.dll
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\bin\Debug\net7.0\KomodoInsurance.pdb
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\KomodoInsurance.dll
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\refint\KomodoInsurance.dll
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\KomodoInsurance.pdb
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\KomodoInsurance.genruntimeconfig.cache
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\Challenges\KomodoInsurance\obj\Debug\net7.0\ref\KomodoInsurance.dll
